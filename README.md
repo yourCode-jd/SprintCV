@@ -8,7 +8,7 @@ Performance-optimized single page with lazy media, critical CSS, and tiny JS foo
 
 ## 🚀 Github Demo
 
-[View Here](https://yourcode-jd.github.io/AI/)
+[View Here](https://yourcode-jd.github.io/SprintCV/)
 
 ---
 
